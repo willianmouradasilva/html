@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>criando um documento pessoal</title>
+    <link rel="stylesheet" href="favicon-icon.png">
+    
+</head>
+<body>
+    <h1>Minhas redes Sociais</h1>
+    <img src="foto200.png" alt="foto de perfil">
+    <h2>Quem sou Eu ?</h2>
+    <p>olá meu nome é <strong>Willian moura da silva. </strong>nascido em <strong>1996</strong>.Atualmente trabalho como garçom.estou estudando <strong>ADS</strong> em busca de uma transição de carreira pra uma aréa aonde tenho o prazer de estudar adiquirir conhecimentos.</p>
+    <h3>Meus contatos</h3>
+    <ul> <li><img src="facebook-new.png" alt="rede facebook"><a href="https://www.facebook.com/share/19mw6s7Qq9/?mibextid=wwXIfr" target="_blank">/willianmoura</a> segue la no facebook
+        <li><img src="icon-github-28.jpg" alt="rede github"> <a href="https://github.com/willianmouradasilva" target="_self">/Github.comwillianmouradasilva</a> segue la no GitHub</li>
+        <li><img src="instagram-logo-instagram-icon-transparent-free-png.webp" alt="rede instagram"> <a href="https://www.instagram.com/willian.moura.1069020/profilecard/?igsh=MXU5b3AwZnZ1aDhzZg==" target="_blank">@willianmoura</a> legue la no Instagram</li>
+        <li><img src="linkedin.png" alt="linkdin"> <a href="https://www.linkedin.com/in/willian-moura-1517gui?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">/willian-moura</a>legue la no Linkedin</li>
+
+
+    </ul>
+   
+   
+
+
+
+    
+
+    
+</body>
+</html>
